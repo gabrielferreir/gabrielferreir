@@ -30,3 +30,4 @@ Would you like to contact me?
 </div>
 
 ![Snake animation](https://github.com/gabrielferreir/gabrielferreir/blob/output/github-contribution-grid-snake.svg)
+
